@@ -7,7 +7,7 @@
 **Description**: User can change his password without enter old pass by deleting old password parameters from the request before sending it to the server.
 
 **Steps to reproduce**:
-1. Login on the application
+1. Login to the application
 2. Request for change password & fill the parameters with new password
 3. Send the request to burp proxy
 
